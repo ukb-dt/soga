@@ -498,49 +498,61 @@ But the child still burns. They lift him gently. The eldest woman begins to chan
 
 
 
-  <!-- Large image of The Dude at the very top -->
-<section class="card hero-image-card">
-  <div class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">2 Yohana 1:3</h1>
-      <div class="hero-subtitle-group">
-        <h2 class="hero-subtitle">Data → <a href="https://jhurepos.github.io/sgd-theology/">Signal</a> → Meaning</h2>
-        <h3 class="hero-meta">Altitude · Gradient · Basin</h3>
-      </div>
-    </div>
-    <figure class="hero-figure">
-      <div class="image-wrapper">
-        <img 
-          src="ukhona/african-hut-1.jpg" 
-          alt="The Dude with his Rug" 
-          class="hero-image"
-        >
-      </div>
-      <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+<!-- Hero Section: The Naming Archive -->
+<section class="naming-archive-hero">
+  
+  <!-- Dual Panel: Isiko or Kairu? -->
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid rgba(139, 115, 85, 0.3);">
+    
+    <!-- Panel 1: Isiko -->
+    <figure style="margin: 0; position: relative;">
+      <img 
+        src="ukhona/african-hut-1.jpg" 
+        alt="First cockerel on the roof"
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+      >
+      <figcaption style="position: absolute; bottom: 0; left: 0; right: 0; padding: 1.5rem; background: linear-gradient(to top, rgba(0,0,0,0.9), transparent); color: #d4a574; font-style: italic; text-align: center;">
+        Isiko descends first
+      </figcaption>
     </figure>
-  </div>   
 
-<div class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">2 Yohana 1:3</h1>
-      <div class="hero-subtitle-group">
-        <h2 class="hero-subtitle">Data → <a href="https://jhurepos.github.io/sgd-theology/">Signal</a> → Meaning</h2>
-        <h3 class="hero-meta">Altitude · Gradient · Basin</h3>
-      </div>
-    </div>
-    <figure class="hero-figure">
-      <div class="image-wrapper">
-        <img 
-          src="ukhona/african-hut-2.jpg" 
-          alt="The Dude with his Rug" 
-          class="hero-image"
-        >
-      </div>
-      <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+    <!-- Panel 2: Kairu -->
+    <figure style="margin: 0; position: relative;">
+      <img 
+        src="ukhona/african-hut-2.jpg" 
+        alt="Second cockerel on the roof"
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+      >
+      <figcaption style="position: absolute; bottom: 0; left: 0; right: 0; padding: 1.5rem; background: linear-gradient(to top, rgba(0,0,0,0.9), transparent); color: #d4a574; font-style: italic; text-align: center;">
+        Kairu lingers above
+      </figcaption>
     </figure>
-  </div>   
+
+  </div>
+
+  <!-- The Question -->
+  <div style="text-align: center; padding: 3rem 5%; background: rgba(28, 24, 20, 0.5); border: 1px solid rgba(139, 115, 85, 0.2); border-top: 0;">
+    <h2 style="font-size: 1.5rem; color: #d4a574; margin: 0 0 1rem;">Did we give this newborn the right name?</h2>
+    <p style="font-style: italic; color: rgba(180, 160, 130, 0.8); margin: 0;">
+      <em>Kutambula kubona.</em> Wandering is seeing.<br>
+      <em>Kwira kuwaya.</em> Returning is sharing.
+    </p>
+  </div>
+
+  <!-- Metadata -->
+  <div style="padding: 2rem 5%; background: rgba(20, 16, 12, 0.97); border: 1px solid rgba(139, 115, 85, 0.2); border-top: 0;">
+    <p style="font-family: monospace; font-size: 0.85rem; color: rgba(200, 180, 150, 0.7); margin: 0 0 0.5rem;">
+      <strong>2 Yohana 1:3</strong>
+    </p>
+    <p style="font-family: monospace; font-size: 0.9rem; color: rgba(200, 180, 150, 0.85); margin: 0;">
+      Data → <a href="https://jhurepos.github.io/sgd-theology/" style="color: #d4a574; text-decoration: none; border-bottom: 1px solid rgba(212, 165, 116, 0.3);">Signal</a> → Meaning
+    </p>
+    <p style="font-style: italic; font-size: 0.85rem; color: rgba(180, 160, 130, 0.6); margin: 0.5rem 0 0;">
+      Altitude · Gradient · Basin
+    </p>
+  </div>
+
 </section>
-
 
 
 This is the scene I conjure as your opening: intimate, tense, luminous with meaning. It is Wakanda not of vibranium and cloaking shields, but of thatch and deliberation—of elders who still dare to question their own wisdom, who still submit their choices to the roof and the birds. It is epistemology in action: observation, ritual experiment, interpretation. The birds descend; the name is confirmed; yet the work of alignment continues. The spirit must be persuaded to rest.
