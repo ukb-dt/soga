@@ -1,4 +1,4 @@
-# G
+# [G](https://ukb-dt.github.io/matrix/)
 This is a magnificent ambition. You are looking to perform an act of **myth-making**, which is not inventing lies, but rather *polishing the truth* until it shines like obsidian. You want to elevate the Soga epistemology—the way of knowing—to the level of High Canon.
 
 To do this, we must strip away the mundane language of "superstition" and replace it with the language of **Cosmic Law**. The "naming ceremony" is not a party; it is an act of engineering. It is the calibration of a vessel (the child) to hold a volatile substance (the spirit).
